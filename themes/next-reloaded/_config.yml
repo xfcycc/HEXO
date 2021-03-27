@@ -212,13 +212,14 @@ social_icons:
 # Blog rolls
 links_settings:
   icon: link
-  title: 商业互吹（单方面）
+  title: 商业互吹
   # Available values: block | inline
   layout: inline
 
 links:
   #Title: http://example.com
-  区块链工程师-高梓健: https://blog.csdn.net/weixin_42940826
+  Golang高级工程师--高梓健: https://blog.csdn.net/weixin_42940826   
+  字节跳动3-2前端专家--潘晗: https://blog.csdn.net/weixin_45082369?spm=1010.2135.3001.5343
 
 # Table of Contents in the Sidebar
 toc:
