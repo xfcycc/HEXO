@@ -190,7 +190,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink.
 # Value after `||` delimiter is the name of Font Awesome icon. If icon (with or without delimiter) is not specified, globe icon will be loaded.
 social:
-  微博: https://weibo.com/caiguoyu || weibo
+  #微博: https://weibo.com/caiguoyu || weibo
   GitHub: https://github.com/xfcycc ||github
   #GitHub: https://github.com/yourname || github
   E-Mail: mailto:caiguoyu@mail.caiguoyu.cn|| envelope
