@@ -42,7 +42,7 @@
 </div>
 {% if theme.footer.powered %}
 <div class="BbeiAn-info">
-{{ __('苏ICP备')}} - 19010692号
+{{ __('苏ICP备')}}19010692号-1
 </div>
 {% endif %}
 
