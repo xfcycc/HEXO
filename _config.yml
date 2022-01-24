@@ -110,5 +110,5 @@ deploy:
   #https://github.com/xfcycc/xfcycc.github.io.git
   #git@github.com:xfcycc/xfcycc.github.io.git
   #repo: git@github.com:xfcycc/xfcycc.github.io.git
-  repo: root@47.101.214.198:/www/server/hexo.git
+  repo: root@101.35.194.129:/www/server/hexo.git
   branch: master
